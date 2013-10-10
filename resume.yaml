@@ -1,0 +1,13 @@
+- url: resume.tex
+  title: My Resume
+  template: texresume.st
+  layout: texresume.txt.st
+  data:
+    education: FROM education.yaml
+
+- url: resume.md
+  title: My Resume
+  template: resume.st
+  layout: resume.markdown.st
+  data:
+    education: FROM education.yaml

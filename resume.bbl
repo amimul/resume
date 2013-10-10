@@ -1,0 +1,32 @@
+\begin{thebibliography}{1}
+
+\bibitem{Zhang:2013:GFM:2486001.2491728}
+\textbf{Jingwei Zhang}.
+\newblock Greedy forwarding for mobile social networks embedded in hyperbolic
+  spaces.
+\newblock In {\em Proceedings of the ACM SIGCOMM 2013 conference}, pages
+  555--556.
+\newblock Poster.
+
+\bibitem{publication1}
+Daifeng Li, \textbf{Jingwei Zhang}, Golden~Guo zheng Sun, Jie Tang, Ying Ding,
+  and Zhipeng Luo.
+\newblock What is the nature of chinese microblogging: Unveiling the unique
+  features of tencent weibo.
+\newblock arXiv:1211.2197.
+
+\bibitem{publication2}
+Daifeng Li, Ying Ding, Xin Shuai, Golden~Guo zheng Sun, Jie Tang, Zhipeng Luo,
+  \textbf{Jingwei Zhang}, and Guo Zhang.
+\newblock Topic-level opinion influence model(toim): An investigation using
+  tencent micro-blogging.
+\newblock arXiv:1210.6497.
+
+\bibitem{publication3}
+Daifeng Li, Zhipeng Luo, Golden~Guo zheng Sun, Jie Tang, and \textbf{Jingwei
+  Zhang}.
+\newblock User-level weibo recommendation incorporating social influence based
+  on semi-supervised algorithm.
+\newblock arXiv:1210.7047.
+
+\end{thebibliography}

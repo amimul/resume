@@ -1,0 +1,146 @@
+\input{header.tex}
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%\begin{CJK*}{UTF8}{gbsn}                     % to typeset your resume in Chinese using CJK
+%-----       resume       ---------------------------------------------------------
+\makecvtitle
+
+\section{Education}
+\cventry{Current}{M.S. in Computer Science}{Columbia University}{}{}{}%{City}{\textit{Grade}}{Description}  % arguments 3 to 6 can be left empty
+\cventry{2009--2013}{B.S. in Electronic Engineering}{Tsinghua University}{}{}{}%{City}{\textit{Grade}}{Description}  % arguments 3 to 6 can be left empty
+%\cventry{2009}{High school}{No.2 High School attached to East China Normal University}{}{}{}%{City}{\textit{Grade}}{Description}
+
+\section{Experience}
+\subsection{Research experience}
+
+\cvproj{Dec. 2012\\--Mar. 2013}{Greedy forwarding for mobile social networks embedded in hyperbolic spaces}{Bachelor thesis}{Supervised by Prof. Li \textsc{Su}}{EE@THU}{
+\begin{itemize}
+   \item Designed and evaluated a novel greedy forwarding algorithm using metrics in hyperbolic spaces;
+   \item Showed that mobile social networks can be successfully embedded in such spaces, and obtains competitive performance in terms of message delivery ratio and cost;
+   \item Poster presented in SIGCOMM'13.
+\end{itemize}}
+
+\cvproj{Jul. 2012\\--Sep. 2012}{Unveiling the Unique Features of Tencent(QQ) Weibo}{Research Intern}{Supervised by Prof. Jie \textsc{Tang}}{CS@THU \& Tencent}{
+\begin{itemize}
+\item Used Hadoop to process collected data of more than 320M users and 3.7B microblogs;
+\item Studied Tencent Weibo from both macro and micro levels;
+\item Discovered interesting difference between Tencent Weibo and Twitter.
+\end{itemize}}
+
+\cvproj{Aug. 2012\\--Dec. 2012}{User-level Weibo Recommendation based on Semi-Supervised Algorithm}{Research Intern}{Supervised by Prof. Jie \textsc{Tang}}{CS@THU \& Tencent}{
+\begin{itemize}
+\item Proposed a Factor Graph based weibo recommendation algorithm TSI-WR incorporating Social Influence with high accuracy;
+\item Mainly responsible for data cleaning in the group.
+\end{itemize}}
+
+%\cventry{2011--Current}{Student Research Training Project}{Department of Computer Science}{Supervised by Prof. Baolin \textsc{Liu}}{}{
+%\emph{Visual-auditory Crossmodal Effect of Elevation Recognition}
+%\begin{itemize}
+%\item Designed an experiment with event-related potential and behavior tests using head-related transfer function;
+%\item Will complete the experiment with more than 10 subjects.
+%\end{itemize}}
+%\cventry{Sept. 2011--Dec. 2011}{Research intern}{Center for Quantum Information of THU}{supervised by Prof. Luming \textsc{Duan}}{}{
+%\emph{Quantum Computation with Trapped Ions}
+%\begin{itemize}
+%\item Studied quantum information/computation theories and existing methods, did field research;
+%\item Rank 3/30 in a related examination.
+%\end{itemize}}
+\cvproj{Feb. 2010}{Test and Evaluation of Background Extraction Algorithms}{Course Research}{}{Dept. of EE}{
+\begin{itemize}
+\item Realized dominant background extraction algorithms with the C++ programming language;
+\item Tested speed and robustness, analyzed applicabilities of each algorithms in varied conditions.
+\end{itemize}}
+\cvproj{Sep. 2009\\--Oct. 2009}{An Intersection Evaluation Method Base on Pedestrians}{Course Research, Group Leader}{Supervised by Prof. Xiqin \textsc{Wang}}{}{
+\begin{itemize}
+\item Designed an intersection evaluation method, innovatively introduced dynamic model simulation;
+\item Tested at five intersections in Beijing, proved high confidence of the method by comparing with survey results.
+\end{itemize}}
+
+\subsection{Project experience}
+\cvproj{Dec 2011}{Terrain Classification Based on Locally Stationary Wavelet Model}{}{}{}{
+\begin{itemize}
+\item Realized locally stationary wavelet model in matlab.
+\item Designed terrain classification algorithm, tested in Brodatz textures and Google Earth database with robust results.
+\end{itemize}}
+\cvproj{Dec 2011}{Music transcription method based on poisson point process model and beat detection}{}{}{}{
+\begin{itemize}
+\item Improved point process MCMC method for music transcription with beat detection based on constant Q transform.
+\item Reduced the computational complexity while accuracy rate almost unchanged.
+\end{itemize}}
+\cvproj{May 2010}{Vocabulary-building software}{}{}{}{
+\begin{itemize}
+\item Application using MFC and XML, integrated Barron’s word list, GRE/TOEFL word list and Merriam-Webster Dictionary.
+\item Enhance vocabulary-building speed with laws of memory.
+\end{itemize}}
+
+\section{Honors and awards}
+\subsection{Contest Awards}
+\cventry{2010}{Frist Prize}{Beijing Physics Contest for college students}{}{}{}
+\cventry{2010}{Into the final}{Tsinghua Electronic Design Contest}{}{team leader}{}
+\cventry{2010}{Rank 2\textsuperscript{nd}}{Baidu Cup Tsinghua Duishi AI Contest}{team leader}{}{}
+\cventry{2010}{Rank 3\textsuperscript{rd}}{Tsinghua QuanHuang AI Contest}{}{}{}
+\cventry{2009}{Frist Prize}{National Physics Contest for high school students}{}{}{\textbf{Rank 4\textsuperscript{th} all over China}}
+\subsection{Scholarships}
+\cventry{2010}{Samsung Scholarship}{Tsinghua University}{}{}{\textsc{cny} 3,000}
+\cventry{2009}{School of Information Science and Technology Scholarship}{Tsinghua University}{}{}{\textsc{cny} 20,000}
+
+
+% Publications from a BibTeX file without multibib
+%  for numerical labels: \renewcommand{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+%  to redefine the heading string ("Publications"): \renewcommand{\refname}{Articles}
+\nocite{*}
+\bibliographystyle{unsrt}
+\bibliography{articles}                   % 'publications' is the name of a BibTeX file
+
+%\section{Languages}
+%\cvitemwithcomment{Language 1}{Skill level}{Comment}
+%\cvitemwithcomment{Language 2}{Skill level}{Comment}
+%\cvitemwithcomment{Language 3}{Skill level}{Comment}
+\section{Extracurricular activities}
+\cvline{Volunteer}{\small KDD2012, Beijing}
+\cvline{Volunteer}{\small 28\textsuperscript{th} Challenge Cup}
+\cvline{Member}{\small Tsinghua Ski Association}
+\cvline{Member}{\small Tsinghua Science and Technology Association}
+
+%\section{Standard tests}
+%\cvitem{GRE}{Verbal: 155, Quantitaive: 170, Analytical Writing: 3.0}
+%\cvitem{TOEFL}{Reading: 30, Listening: 30, Speaking: 22, Writing: 22}
+
+\section{Computer skills}
+\cvitem{Tools}{C/C++, R, Matlab, \LaTeX, Java, Hadoop, MySQL, verilog, Assembly}
+\cvitem{Environment}{Windows, Linux}
+%\cvdoubleitem{category 3}{YYY, ZZZ}{category 6}{YYY, ZZZ}
+
+%\section{Other interests}
+%\cvlistitem{Evolutionary Psychology}{}
+%cvlistitem{Behavioral Economics}{}
+%\cvlistitem{Photography}{}
+%\cvlistitem{Alpine skiing}{}
+%\section{Extra 1}r 
+%\cvlistitem{Item 1}
+%\cvlistitem{Item 2}
+%\cvlistitem{Item 3}
+
+%\renewcommand{\listitemsymbol}{-~}            % change the symbol for lists
+
+%\section{Extra 2}
+%\cvlistdoubleitem{Item 1}{Item 4}
+%\cvlistdoubleitem{Item 2}{Item 5\cite{book1}}
+%\cvlistdoubleitem{Item 3}{}
+
+% Publications from a BibTeX file using the multibib package
+%\section{Publications}
+%\nocitebook{book1,book2}
+%\bibliographystylebook{plain}
+%\bibliographybook{publications}              % 'publications' is the name of a BibTeX file
+%\nocitemisc{misc1,misc2,misc3}
+%\bibliographystylemisc{plain}
+%\bibliographymisc{publications}              % 'publications' is the name of a BibTeX file
+
+%\clearpage\end{CJK*}                         % if you are typesetting your resume in Chinese using CJK; the \clearpage is required for fancyhdr to work correctly with CJK, though it kills the page numbering by making \lastpage undefined
+\end{document}
+
+
+%% end of file `resume.tex'.

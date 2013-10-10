@@ -1,0 +1,4 @@
+indexfile: resume.yaml
+title: My Resume
+sourcedir: [., templates]
+datadir: [data]
