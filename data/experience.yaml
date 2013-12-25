@@ -1,0 +1,19 @@
+- time:
+  title:
+  job:
+  org:
+  advisor:
+  detail:
+  - 
+  
+- time: 
+  - Dec. 2012
+  - Mar. 2013
+  title: Greedy forwarding for mobile social networks embedded in hyperbolic spaces
+  job: Bachelor thesis
+  org: EE@THU
+  advisor: Supervised by Prof. Li \textsc{Su}
+  detail:
+  - Designed and evaluated a novel greedy forwarding algorithm using metrics in hyperbolic spaces;
+  - Showed that mobile social networks can be successfully embedded in such spaces, and obtains competitive performance in terms of message delivery ratio and cost;
+  - Poster presented in SIGCOMM'13.

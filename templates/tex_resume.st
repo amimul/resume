@@ -1,8 +1,10 @@
 \\section{Education}
 
-$education:texeducation()$
+$education:tex_education()$
 
 \\section{Experience}
+
+$experience:tex_experience()$
 
 \\section{Honors and awards}
 

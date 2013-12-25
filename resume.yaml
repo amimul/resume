@@ -1,9 +1,10 @@
 - url: resume.tex
   title: My Resume
-  template: texresume.st
-  layout: texresume.txt.st
+  template: tex_resume.st
+  layout: tex_resume.tex.st
   data:
     education: FROM education.yaml
+    experience: FROM experience.yaml
 
 - url: resume.md
   title: My Resume

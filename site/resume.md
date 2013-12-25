@@ -12,6 +12,7 @@ weight: 4
 Current	M.S. in Coumpter Science	Columbia University	New York
 2009-2013	M.S. in Coumpter Science	Columbia University	Beijing
 
+
 ## Experience
 
 ## Honors and awards
