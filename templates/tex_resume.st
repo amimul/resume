@@ -8,15 +8,19 @@ $experience:tex_experience()$
 
 \\section{Honors and awards}
 
-\\subsection{Contest Awards}
+\\subsection{Contest}
+
+$contest:tex_contest()$
 
 \\subsection{Scholarships}
 
+$scholarships:tex_scholarships()$
+
 \\nocite{*}
 \\bibliographystyle{unsrt}
-\\bibliography{articles}
+\\bibliography{../data/articles}
 
-\\section{Extracurricular activities}
 
 \\section{Computer skills}
 
+$skills:tex_skills()$

@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: resume.aux
+The style file: unsrt.bst
+Database file #1: ../data/articles.bib
+Warning--empty year in Zhang:2013:GFM:2486001.2491728
+You've used 2 entries,
+            1791 wiz_defined-function locations,
+            456 strings with 3965 characters,
+and the built_in function-call counts, 535 in all, are:
+= -- 46
+> -- 24
+< -- 1
++ -- 9
+- -- 7
+* -- 30
+:= -- 86
+add.period$ -- 7
+call.type$ -- 2
+change.case$ -- 2
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 25
+empty$ -- 47
+format.name$ -- 7
+if$ -- 119
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 1
+newline$ -- 14
+num.names$ -- 2
+pop$ -- 7
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 17
+stack$ -- 0
+substring$ -- 32
+swap$ -- 11
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 5
+width$ -- 3
+write$ -- 23
+(There was 1 warning)

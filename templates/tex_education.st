@@ -1,2 +1,2 @@
-\\cventry{$it.year$}{$it.degree$}{$it.institution$}{}{}{}{$it.city$}
+\\cventry{$it.year$}{$it.degree$}{$it.institution$}{$it.city$}{}{}
 

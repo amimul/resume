@@ -5,6 +5,9 @@
   data:
     education: FROM education.yaml
     experience: FROM experience.yaml
+    contest: FROM contest.yaml
+    scholarships: FROM scholarships.yaml
+    skills: FROM skills.yaml
 
 - url: resume.md
   title: My Resume

@@ -3,5 +3,5 @@
 rm site/resume.tex
 ~/.cabal/bin/yst
 
-#cp resume.tex ../../resume/resume.raw.tex
+cp site/resume.tex pdftex/ 
 

@@ -1,26 +1,19 @@
-Compiler = pdflatex
-Reader = evince
-
-Source = resume.tex
 Target = resume.pdf
 TmpFile = *.out *.log *.aux *.nav *.snm *.toc
 
-#ifneq ( $(MAKECMDGOALS),clean) 
-#include $(sources:.tex=.pdf) 
+$(Target): site/resume.tex
+	rm site/resume.tex
+	~/.cabal/bin/yst
+	cp site/resume.tex tex/resume.tex
+	cd tex; pdflatex resume.tex; bibtex resume.aux; \
+	pdflatex resume.tex; pdflatex resume.tex
+	mv tex/resume.pdf site/
 
-$(Target): $(Source)
-	$(Compiler) $(Source)
-	$(Compiler) $(Source)
-
-all: $(Target) clean read 
+all: resume.pdf clean read 
 
 read:
-	$(Reader) $(Target)
+	evince site/resume.pdf 
 
 clean:
-	-rm -f $(TmpFile)
+	-rm -f tex/$(TmpFile)
 
-cleanall:
-	-rm -f $(TmpFile) $(Target)
-
-.PHONY: all read clean cleanall
