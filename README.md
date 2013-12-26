@@ -1,5 +1,5 @@
-* Install (yst)[https://github.com/jgm/yst]
+* Install [yst](https://github.com/jgm/yst)
 
 ### Usage
 
-    ./run.sh
+    make
