@@ -1,2 +1,5 @@
-\\cventry{$it.year$}{$it.degree$}{$it.institution$}{$it.city$}{}{}
+\\item[$it.detail$]{$it.year$}
+     {$it.degree$}
+     {$it.institution$, $it.city$}{}{}
+
 

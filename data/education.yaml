@@ -1,10 +1,11 @@
-- year: Current
-  degree: M.S. in Coumpter Science
+- year: 2013--
+  degree: MSc in Coumpter Science
   institution: Columbia University
   city: New York
+  detail: Machine Learning Track
 
 - year: 2009--2013
-  degree: B.S. in Electronic Engineering
+  degree: BSc in Electronic Engineering
   institution: Tsinghua University
   city: Beijing
 

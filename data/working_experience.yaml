@@ -1,0 +1,13 @@
+- time: 2012
+  position: Data Mining Intern
+  org: Tencent(QQ) Inc.
+  advisor: Supervised by Prof. Jie \textsc{Tang}
+  job:
+  - title: Unveiling the Unique Features of Tencent Weibo
+    detail:
+    - Used Hadoop to process collected data of more than 320M users and 3.7B microblogs;
+    - Studied Tencent Weibo from both macro and micro levels, discovered interesting difference between Tencent Weibo and Twitter.
+  - title: User-level Microblog Recommendation based on Semi-Supervised Algorithm
+    detail:
+    - We Proposed a Factor Graph based microblog recommendation algorithm TSI-WR (Topic-Level Social Influence based Weibo Recommendation), and our model outperforms several baseline methods.
+    - Mainly responsible for data cleaning in the group.

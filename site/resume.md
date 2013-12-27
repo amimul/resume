@@ -9,8 +9,8 @@ weight: 4
 
 ## Education
 
-Current	M.S. in Coumpter Science	Columbia University	New York
-2009--2013	B.S. in Electronic Engineering	Tsinghua University	Beijing
+2013--	MSc in Coumpter Science	Columbia University	New York
+2009--2013	BSc in Electronic Engineering	Tsinghua University	Beijing
 
 
 ## Experience

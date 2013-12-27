@@ -1,26 +1,50 @@
-\\section{Education}
+\\section{Working experience}
 
-$education:tex_education()$
+$working_experience:tex_experience()$
 
-\\section{Experience}
+\\section{Professional experience}
 
 $experience:tex_experience()$
 
-\\section{Honors and awards}
+\\personal[iceboal.com]{157 W 106th St Apt 3D}{New York, NY 10025}{+1 (347) 821-1086}{iceboal@gmail.com}
 
-\\subsection{Contest}
+\\section{Education}
+
+\\begin{yearlist}
+
+$education:tex_education()$
+
+\\end{yearlist}
+
+\\section{Contest}
+
+\\begin{yearlist}
 
 $contest:tex_contest()$
 
-\\subsection{Scholarships}
+\\end{yearlist}
+
+\\section{Scholarships}
+
+\\begin{yearlist}
 
 $scholarships:tex_scholarships()$
 
-\\nocite{*}
-\\bibliographystyle{unsrt}
-\\bibliography{../data/articles}
+\\end{yearlist}
 
 
-\\section{Computer skills}
+\\section{Publications}
+
+$publications: tex_publications()$
+
+\\section{Skills}
+
+\\begin{factlist}
 
 $skills:tex_skills()$
+
+\\end{factlist}
+
+
+
+

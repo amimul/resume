@@ -1,19 +1,9 @@
 Target = resume.pdf
-TmpFile = *.out *.log *.aux *.nav *.snm *.toc
+TmpFile = *.out *.log *.aux *.nav *.snm *.toc *.cls
 
 $(Target): site/resume.tex
 	rm site/resume.tex
 	~/.cabal/bin/yst
-	cp site/resume.tex tex/resume.tex
-	cd tex; pdflatex resume.tex; bibtex resume.aux; \
-	pdflatex resume.tex; pdflatex resume.tex
-	mv tex/resume.pdf site/
-
-all: resume.pdf clean read 
-
-read:
-	evince site/resume.pdf 
-
-clean:
-	-rm -f tex/$(TmpFile)
-
+	cp templates/tccv.cls site/
+	cd site; pdflatex resume.tex; \
+	rm -f $(TmpFile)

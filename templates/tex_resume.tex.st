@@ -1,6 +1,8 @@
-\\input{header.tex}
+\\documentclass{tccv}
+
 \\begin{document}
-\\makecvtitle
+
+\\part{Jingwei Zhang}
 
 $contents$
 

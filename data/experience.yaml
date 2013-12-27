@@ -1,19 +1,35 @@
-- time:
-  title:
-  job:
-  org:
-  advisor:
-  detail:
-  - 
-  
-- time: 
-  - Dec. 2012
-  - Mar. 2013
-  title: Greedy forwarding for mobile social networks embedded in hyperbolic spaces
-  job: Bachelor thesis
-  org: EE@THU
+- time: 2013  
+  position: Bachelor thesis
+  org: EE, THU
   advisor: Supervised by Prof. Li \textsc{Su}
-  detail:
-  - Designed and evaluated a novel greedy forwarding algorithm using metrics in hyperbolic spaces;
-  - Showed that mobile social networks can be successfully embedded in such spaces, and obtains competitive performance in terms of message delivery ratio and cost;
-  - Poster presented in SIGCOMM'13.
+  job:
+  - title: Greedy forwarding for mobile social networks embedded in hyperbolic spaces
+    detail:
+    - Designed and evaluated (using R) a novel greedy message forwarding algorithm using metrics in hyperbolic spaces, obtained competitive performance in terms of message delivery ratio and cost;
+    - Poster presented in SIGCOMM'13.
+
+- time: 2011  
+  position: Course project
+  org: EE, THU
+  job:
+  - title: Terrain Classification Based on Locally Stationary Wavelet Model
+    detail:
+    - Implenmented locally stationary wavelet model in matlab.
+    - Designed terrain classification algorithm, tested in Brodatz textures and Google Earth database with robust results.
+  - title: Music transcription method based on poisson point process model and beat detection
+    detail:
+    - Improved point process MCMC method for music transcription with beat detection based on constant Q transform.
+    - Reduced the computational complexity while accuracy rate almost unchanged.
+
+
+- time: 2010  
+  position: Course project
+  org: EE, THU
+  job:
+  - title: Test and Evaluation of Background Extraction Algorithms
+    detail:
+    - Implenmented some background extraction algorithms using C++, analyzed the applicabilities of each algorithm in varied conditions.
+  - title: Vocabulary-building software
+    detail:
+    - Designed an application using MFC and XML, integrated multiple words lists and dictionaries, aims to enhance memorization speed.
+

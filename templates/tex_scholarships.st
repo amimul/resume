@@ -1,3 +1,2 @@
-\\cventry{$it.time$}{$it.title$}{$it.org$}{}{}{$it.money$}
-
+\\item{$it.time$}{$it.title$}{$it.org$}{}{$it.money$}
 
