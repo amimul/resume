@@ -9,5 +9,5 @@
     - Studied Tencent Weibo from both macro and micro levels, discovered interesting difference between Tencent Weibo and Twitter.
   - title: User-level Microblog Recommendation based on Semi-Supervised Algorithm
     detail:
-    - We Proposed a Factor Graph based microblog recommendation algorithm TSI-WR (Topic-Level Social Influence based Weibo Recommendation), and our model outperforms several baseline methods.
-    - Mainly responsible for data cleaning in the group.
+    - Our group proposed a Factor Graph based microblog recommendation algorithm TSI-WR (Topic-Level Social Influence based Weibo Recommendation), outperformed several baseline methods;
+    - Responsible for data cleaning in the group.

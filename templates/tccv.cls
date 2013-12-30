@@ -73,7 +73,7 @@
     \begin{center}
 	\vskip-\lastskip%
 	{\usekomafont{part} #1} \medskip\\
-	{\fontfamily{pzc}\selectfont\Huge R\'esum\'e}
+	%{\fontfamily{pzc}\selectfont\Huge R\'esum\'e}
 	\bigskip
     \end{center}]}
 

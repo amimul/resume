@@ -1,3 +1,11 @@
+\\section{Education}
+
+\\begin{yearlist}
+
+$education:tex_education()$
+
+\\end{yearlist}
+
 \\section{Working experience}
 
 $working_experience:tex_experience()$
@@ -8,13 +16,7 @@ $experience:tex_experience()$
 
 \\personal[iceboal.com]{157 W 106th St Apt 3D}{New York, NY 10025}{+1 (347) 821-1086}{iceboal@gmail.com}
 
-\\section{Education}
 
-\\begin{yearlist}
-
-$education:tex_education()$
-
-\\end{yearlist}
 
 \\section{Contest}
 

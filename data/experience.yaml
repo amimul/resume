@@ -5,21 +5,20 @@
   job:
   - title: Greedy forwarding for mobile social networks embedded in hyperbolic spaces
     detail:
-    - Designed and evaluated (using R) a novel greedy message forwarding algorithm using metrics in hyperbolic spaces, obtained competitive performance in terms of message delivery ratio and cost;
+    - Designed and evaluated a novel greedy message forwarding algorithm using metrics in hyperbolic spaces, obtained competitive performance in terms of message delivery ratio and cost;
     - Poster presented in SIGCOMM'13.
 
 - time: 2011  
   position: Course project
   org: EE, THU
   job:
-  - title: Terrain Classification Based on Locally Stationary Wavelet Model
+  - title: Terrain Classification Based on Wavelet Method
     detail:
-    - Implenmented locally stationary wavelet model in matlab.
-    - Designed terrain classification algorithm, tested in Brodatz textures and Google Earth database with robust results.
-  - title: Music transcription method based on poisson point process model and beat detection
+    - Used locally stationary wavelet as a feature extraction method for classifying Brodatz textures.
+     and Google Earth data.
+  - title: Music Transcription Using Gaussian Mixture Model and Beat Detection
     detail:
-    - Improved point process MCMC method for music transcription with beat detection based on constant Q transform.
-    - Reduced the computational complexity while accuracy rate almost unchanged.
+    - Used beat detection (based on constant Q transform) and maximum likelihood estimation for music transcription.
 
 
 - time: 2010  
