@@ -5,9 +5,9 @@
   job:
   - title: Unveiling the Unique Features of Tencent Weibo
     detail:
-    - Used Hadoop to process collected data of more than 320M users and 3.7B microblogs;
+    - Used Hadoop to process collected data of more than 320M users and 3.7B microblogs on a cluster of 36 servers.
     - Studied Tencent Weibo from both macro and micro levels, discovered interesting difference between Tencent Weibo and Twitter.
   - title: User-level Microblog Recommendation based on Semi-Supervised Algorithm
     detail:
-    - Our group proposed a Factor Graph based microblog recommendation algorithm TSI-WR (Topic-Level Social Influence based Weibo Recommendation), outperformed several baseline methods;
+    - Our group proposed a Factor Graph based microblog recommendation algorithm TSI-WR (Topic-Level Social Influence based Weibo Recommendation), outperformed several baseline methods.
     - Responsible for data cleaning in the group.

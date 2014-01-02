@@ -17,3 +17,10 @@
   layout: resume.markdown.st
   data:
     education: FROM education.yaml
+    working_experience: FROM working_experience.yaml
+    experience: FROM experience.yaml
+    contest: FROM contest.yaml
+    scholarships: FROM scholarships.yaml
+    publications: FROM publications.yaml
+    skills: FROM skills.yaml
+

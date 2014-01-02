@@ -2,14 +2,30 @@
 
 $education:education()$
 
-## Experience
+## Work experience
 
-## Honors and awards
+$working_experience:experience()$
 
-### Contest Awards
+## Professional experience
 
-### Scholarships
+$experience:experience()$
 
-## Extracurricular activities
+## Contest Awards
 
-## Computer skills
+$contest:contest()$
+
+## Scholarships
+
+$scholarships:scholarships()$
+
+## Puiblications
+
+$publications: publications()$
+
+## Skills
+
+$skills:skills()$
+
+
+
+

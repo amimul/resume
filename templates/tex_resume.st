@@ -6,7 +6,7 @@ $education:tex_education()$
 
 \\end{yearlist}
 
-\\section{Working experience}
+\\section{Work experience}
 
 $working_experience:tex_experience()$
 

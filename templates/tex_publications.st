@@ -1,3 +1,3 @@
-$it.author$. \\emph{$it.title$}. $it.proceeding$.\\medskip
+$it.author:tex_author(); separator=", "$. \\emph{$it.title$}. $it.proceeding$.\\medskip
 
 

@@ -1,8 +1,17 @@
-- author: \textbf{Jingwei Zhang}
+- author: 
+  - name: Jingwei Zhang
+    me: true
   title: Greedy forwarding for mobile social networks embedded in hyperbolic spaces
-  proceeding: "\\emph{SIGCOMM 2013}: 555–556, poster"
+  proceeding: "SIGCOMM 2013: 555–556, poster"
 
-- author: Daifeng Li, \textbf{Jingwei Zhang}, Golden Guo-zheng Sun, Jie Tang, Ying Ding and Zhipeng Luo
+- author: 
+  - name: Daifeng Li
+  - name: Jingwei Zhang
+    me: true
+  - name: Golden Guo-zheng Sun
+  - name: Jie Tang
+  - name: Ying Ding
+  - name: Zhipeng Luo
   title: "What is the Nature of Chinese MicroBlogging: Unveiling the Unique Features of Tencent Weibo"
   proceeding: arXiv:1211.2197
 

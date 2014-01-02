@@ -31,9 +31,11 @@
 
 \setcounter{secnumdepth}{-1}
 \RequirePackage[hmargin=1.25cm,vmargin=1.25cm,twocolumn,columnsep=1.25cm]{geometry}
-\RequirePackage{bookman,etoolbox,hyperref,marvosym,needspace,tabularx,xcolor}
+\RequirePackage{bookman,etoolbox,hyperref,marvosym,needspace,tabularx,xcolor,enumitem}
 \renewcommand{\rmdefault}{ptm}
  
+\setitemize[0]{leftmargin=*}
+
 % Capitalize words of at least a minimum length (default to 3 chars).
 % The text is capitalized before being expanded.
 %
@@ -73,7 +75,7 @@
     \begin{center}
 	\vskip-\lastskip%
 	{\usekomafont{part} #1} \medskip\\
-	%{\fontfamily{pzc}\selectfont\Huge R\'esum\'e}
+	{\fontfamily{pzc}\selectfont\Huge R\'esum\'e}
 	\bigskip
     \end{center}]}
 
@@ -138,7 +140,8 @@
     \begin{tabularx}{\linewidth}{lX}
     {\sc\footnotesize #1} & {\bfseries #2 @#3}
     \end{tabularx}\smallskip
-    \newline{}\begin{minipage}[t]{\linewidth}#4\end{minipage}
+    \newline{}
+    \noindent\centerline{\begin{minipage}[t]{\linewidth}#4\end{minipage}}
     \medskip}
 
 
