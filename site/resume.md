@@ -1,16 +1,16 @@
 ---
 layout: page
-title: "My Resume"
-tagline: "<a href='resume.pdf'>pdf version</a>"
+title: "Resume"
+tagline: "<a href='resume.pdf'>pdf version (click me)</a>"
 description: ""
 group: navigation
-weight: 4
+weight: 2
 ---
 {% include JB/setup %}
 
 ## Education
 
-- **MSc in Coumpter Science**, **Columbia University**, New York (2013--)
+- **MSc in Coumpter Science, 3.92**, **Columbia University**, New York (2013--)
 
 _Machine Learning Track_
 
@@ -35,9 +35,14 @@ Our group proposed a Factor Graph based microblog recommendation algorithm TSI-W
 
 ## Professional experience
 
+#### 2014	*Research assistant*, @CS, Columbia U
+
+- **Extracting the Social Network of the Taliban (ongoing)**
+
+Using natural language processing technique to perform social event extraction over a large tranche of newspapers and magazines produced by Taliban, aim to construct a mapping of the social network of the Taliban leadership.
 #### 2013	*Bachelor thesis*, @EE, THU
 
-- **Greedy forwarding for mobile social networks embedded in hyperbolic spaces**
+- **Greedy Forwarding for Mobile Social Networks Embedded in Hyperbolic Spaces**
 
 Designed and evaluated a novel greedy message forwarding algorithm using metrics in hyperbolic spaces, obtained competitive performance in terms of message delivery ratio and cost. Poster presented in SIGCOMM'13.
 #### 2011	*Course project*, @EE, THU
@@ -108,9 +113,9 @@ Designed an application using MFC and XML, integrated multiple words lists and d
 
 ## Skills
 
-- Good Level: R, C++, Matlab, Python, Hadoop, \LaTeX, Vim
+- Good Level: R, C++, Matlab, Python, Hadoop, SQL, \LaTeX, Vim
 
-- Basic Level: Java, SQL, Linux, Shell script, Git
+- Basic Level: Java, Linux, Shell script, Git
 
 
 

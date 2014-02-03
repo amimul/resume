@@ -2,8 +2,6 @@
 
 \\begin{document}
 
-\\part{Jingwei Zhang}
-
+\\mywebheader
 $contents$
-
 \\end{document}

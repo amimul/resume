@@ -1,9 +1,19 @@
+- time: 2014
+  position: Research assistant
+  org: CS, Columbia U
+  job:
+  - title: Extracting the Social Network of the Taliban (ongoing)
+    detail:
+    - Using natural language processing technique to perform social event extraction over
+      a large tranche of newspapers and magazines produced by Taliban, aim to construct a mapping
+      of the social network of the Taliban leadership.
+
 - time: 2013  
   position: Bachelor thesis
   org: EE, THU
   advisor: Supervised by Prof. Li \textsc{Su}
   job:
-  - title: Greedy forwarding for mobile social networks embedded in hyperbolic spaces
+  - title: Greedy Forwarding for Mobile Social Networks Embedded in Hyperbolic Spaces
     detail:
     - Designed and evaluated a novel greedy message forwarding algorithm using metrics in hyperbolic spaces, obtained competitive performance in terms of message delivery ratio and cost.
     - Poster presented in SIGCOMM'13.

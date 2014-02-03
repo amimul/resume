@@ -176,3 +176,15 @@
     {\endtabularx}
 %%
 %% End of file `tccv.cls'.
+
+\newcommand{\mywebheader}{
+\twocolumn[
+    \begin{center}
+        {\usekomafont{part} Jingwei Zhang} \medskip\\
+        {157 W 106th St Apt 3D, New York, NY 10025}\smallskip\\ 
+        +1(347)821-1086 ~$\diamond$~
+        \href{mailto:iceboal@gmail.com}{iceboal@gmail.com} ~$\diamond$~
+        \href{http://iceboal.com}{http://iceboal.com}
+    \end{center}
+\bigskip]}
+
