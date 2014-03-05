@@ -1,0 +1,10 @@
+project:
+- Antonym detection using deep word representations (ongoing)
+- Bird song recognition using deep learning with implementation on iOS device (ongoing)
+- Body temperature prediction, aims to speed up thermometer measurement.
+- New York Times articles clustering using Latent Dirichlet Allocation.
+- Terrain classification based on wavelet method.
+- Music transcription using Gaussian Mixture Model and beat detection.
+- Test and evaluation of background extraction algorithms.
+- Vocabulary-building software.
+

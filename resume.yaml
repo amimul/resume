@@ -6,6 +6,7 @@
     education: FROM education.yaml
     working_experience: FROM working_experience.yaml
     experience: FROM experience.yaml
+    projects: FROM projects.yaml
     contest: FROM contest.yaml
     scholarships: FROM scholarships.yaml
     publications: FROM publications.yaml
@@ -19,6 +20,7 @@
     education: FROM education.yaml
     working_experience: FROM working_experience.yaml
     experience: FROM experience.yaml
+    projects: FROM projects.yaml
     contest: FROM contest.yaml
     scholarships: FROM scholarships.yaml
     publications: FROM publications.yaml

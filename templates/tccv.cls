@@ -65,6 +65,7 @@
 \hypersetup{colorlinks,breaklinks,urlcolor=link,linkcolor=link}
 \setkomafont{disposition}{\color[HTML]{000000}}
 \setkomafont{section}{\scshape\Large\mdseries}
+\setkomafont{subsection}{\scshape\large\mdseries}
 
 % In tccv \part must contain the subject of the curriculum vitae.
 % The command will start a new page and output in onecolumn the

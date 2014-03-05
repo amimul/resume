@@ -1,0 +1,3 @@
+- $first(it).project; separator="
+
+- "$

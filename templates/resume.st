@@ -6,9 +6,13 @@ $education:education()$
 
 $working_experience:experience()$
 
-## Professional experience
+## Academic experience
 
 $experience:experience()$
+
+### Representative projects
+
+$projects:projects()$
 
 ## Contest Awards
 

@@ -7,7 +7,14 @@ $working_experience:tex_experience()$
 
 $experience:tex_experience()$
 
+\\vspace{-10pt}
+
+\\subsection{Representative projects}
+
+$projects:tex_projects()$
+
 \\vfill
+
 \\section{Education}
 \\begin{yearlist}
 $education:tex_education()$
