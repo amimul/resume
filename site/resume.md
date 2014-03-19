@@ -10,7 +10,7 @@ weight: 2
 
 ## Education
 
-- **MSc in Coumpter Science, 3.92**, **Columbia University**, New York (2013--)
+- **MSc in Computer Science, 3.92**, **Columbia University**, New York (2013--)
 
 _Machine Learning Track_
 
@@ -49,9 +49,9 @@ Designed and evaluated a novel greedy message forwarding algorithm using metrics
 
 ### Representative projects
 
-- Antonym detection using deep word representations (ongoing)
+- Antonym detection using deep word representations (ongoing).
 
-- Bird song recognition using deep learning with implementation on iOS device (ongoing)
+- Bird song recognition using deep learning with implementation on iOS device (ongoing).
 
 - Body temperature prediction, aims to speed up thermometer measurement.
 

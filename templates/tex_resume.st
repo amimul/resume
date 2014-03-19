@@ -9,7 +9,7 @@ $experience:tex_experience()$
 
 \\vspace{-10pt}
 
-\\subsection{Representative projects}
+\\section{Representative projects}
 
 $projects:tex_projects()$
 
