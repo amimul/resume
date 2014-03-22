@@ -22,7 +22,7 @@ _Machine Learning Track_
 
 ## Work experience
 
-#### 2012	*Data Mining Intern*, @Tencent(QQ) Inc.
+#### 2012	*Data Mining Intern*, @Tencent Inc \& THU.
 
 - **Unveiling the Unique Features of Tencent Weibo**
 
