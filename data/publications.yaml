@@ -1,3 +1,21 @@
+- author:
+  - name: Jingwei Zhang
+    me: true
+  - name: Jeremy Salwen
+  - name: Michael Glass
+  - name: Alﬁo Gliozzo
+  title: Word Semantic Representations using Bayesian Probabilistic Tensor Factorization
+  proceeding: To appear in EMNLP 2014
+
+- author:
+  - name: Apoorv Agarwal
+  - name: Adinoyi Omuya
+  - name: Jingwei Zhang
+    me: true
+  - name: Owen Rambow
+  title: "Enron Corporation: You’re the Boss if People Get Mentioned to You"
+  proceeding: To appear in SocialCom 2014
+
 - author: 
   - name: Jingwei Zhang
     me: true

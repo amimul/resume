@@ -16,5 +16,5 @@ md: data/* templates/*
 tex: data/* templates/tex*
 	rm -f site/resume.tex
 	~/.cabal/bin/yst
-	cd site; sed -i 's#\([0-9]\)\(st\|nd\|rd\|th\)#\1\\textsuperscript{\2}#g' resume.tex; \
-	sed -i 's#\(cny\)#\\textsc{\1}#g' resume.tex
+	cd site; sed -e 's#\([0-9]\)\(st\|nd\|rd\|th\)#\1\\textsuperscript{\2}#g' resume.tex; \
+	sed -e 's#\(cny\)#\\textsc{\1}#g' resume.tex

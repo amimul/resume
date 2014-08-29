@@ -1,8 +1,9 @@
 familiar:
-- R
-- C++
-- Matlab
+- Java
 - Python
+- R
+- Matlab
+- C++
 - Hadoop
 - SQL
 - \LaTeX
@@ -10,7 +11,8 @@ familiar:
 
 
 experienced:
-- Java
 - Linux
 - Shell script
 - Git
+- d3.js
+- angular.js
