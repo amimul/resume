@@ -1,3 +1,4 @@
-**$it.title$**
+$if(it.title)$**$it.title$**
 
-$it.detail; separator=" "$
+$endif$$it.detail; separator=" "$
+

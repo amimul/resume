@@ -1,5 +1,5 @@
-\\item[$it.detail$]{$it.year$}
+\\item[]{$it.year$}
      {$it.degree$}
-     {$it.institution$, $it.city$}{}{}
+     {$it.institution$, $it.city$}{}{$it.detail$}
 
 

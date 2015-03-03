@@ -30,10 +30,11 @@
 \LoadClass[10pt]{scrartcl}
 
 \setcounter{secnumdepth}{-1}
-\RequirePackage[hmargin=1.25cm,vmargin=1.25cm,twocolumn,columnsep=1.25cm]{geometry}
+%\RequirePackage[hmargin=1.10cm,vmargin=.3cm,twocolumn,columnsep=1.10cm]{geometry}
+\RequirePackage[hmargin=3cm,vmargin=2.25cm]{geometry}
 \RequirePackage{bookman,etoolbox,hyperref,marvosym,needspace,tabularx,xcolor,enumitem}
 \renewcommand{\rmdefault}{ptm}
- 
+
 \setitemize[0]{leftmargin=*}
 
 % Capitalize words of at least a minimum length (default to 3 chars).
@@ -187,13 +188,14 @@
 %% End of file `tccv.cls'.
 
 \newcommand{\mywebheader}{
-\twocolumn[
+%\twocolumn[
     \begin{center}
         {\usekomafont{part} Jingwei Zhang} \medskip\\
-        {157 W 106th St Apt 3D, New York, NY 10025}\smallskip\\ 
+        %{157 W 106th St Apt 3D, New York, NY 10025}\smallskip\\ 
         +1(347)821-1086 ~$\diamond$~
         \href{mailto:iceboal@gmail.com}{iceboal@gmail.com} ~$\diamond$~
         \href{http://iceboal.com}{http://iceboal.com}
     \end{center}
-\bigskip]}
+%bigskip]}
+}
 

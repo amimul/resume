@@ -1,3 +1,7 @@
+\\section{Education}
+\\begin{yearlist}
+$education:tex_education()$
+\\end{yearlist}
 
 \\section{Work experience}
 
@@ -7,18 +11,9 @@ $working_experience:tex_experience()$
 
 $experience:tex_experience()$
 
-\\vspace{-10pt}
-
-\\section{Representative projects}
+\\subsection{Other Representative projects}
 
 $projects:tex_projects()$
-
-\\vfill
-
-\\section{Education}
-\\begin{yearlist}
-$education:tex_education()$
-\\end{yearlist}
 
 \\section{Contest and awards}
 
@@ -35,7 +30,6 @@ $contest:tex_contest()$
 $scholarships:tex_scholarships()$
 
 \\end{yearlist}
-
 
 \\section{Publications}
 

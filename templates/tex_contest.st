@@ -1,3 +1,3 @@
-\\item{$it.time$}{$it.prize$}{$it.title$}{$it.detail$}{$it.job$}
+\\item{$it.time$}{$it.title$}{$it.prize$}{$it.detail$}{$it.job$}
 
 
