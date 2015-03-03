@@ -1,11 +1,21 @@
 - author:
   - name: Jingwei Zhang
     me: true
+  - name: Aaron Gerow
+  - name: Jaan Altosaar
+  - name: James Evans
+  - name: Richard Jean So
+  title: Fast, Flexible Models for Discovering Topic Correlation across Weakly-Related Collections
+  proceeding: Submitted to ACL 2015
+
+- author:
+  - name: Jingwei Zhang
+    me: true
   - name: Jeremy Salwen
   - name: Michael Glass
-  - name: Alﬁo Gliozzo
+  - name: Alfio Gliozzo
   title: Word Semantic Representations using Bayesian Probabilistic Tensor Factorization
-  proceeding: To appear in EMNLP 2014
+  proceeding: EMNLP 2014
 
 - author:
   - name: Apoorv Agarwal
@@ -14,7 +24,7 @@
     me: true
   - name: Owen Rambow
   title: "Enron Corporation: You’re the Boss if People Get Mentioned to You"
-  proceeding: To appear in SocialCom 2014
+  proceeding: SocialCom 2014
 
 - author: 
   - name: Jingwei Zhang
@@ -22,7 +32,7 @@
   title: Greedy forwarding for mobile social networks embedded in hyperbolic spaces
   proceeding: "SIGCOMM 2013: 555–556, poster"
 
-- author: 
+- author:
   - name: Daifeng Li
   - name: Jingwei Zhang
     me: true

@@ -1,14 +1,21 @@
+- time: 2015
+  position: SDE
+  org: Amazon
+  job:
+  - detail:
+    - Joined the Feed and Report Platform Gateway team in Amazon Marketplace.
+
 - time: 2014
   position: SDE Intern
   org: Amazon
   job:
   - title: Feed and Report Platform Daily Flash
     detail:
-    - Use various AWS services and visualization techniques to automatically generate daily report of the usage of Amazon Marketplace Feed and Report Platform services, and provide a web portal for users to customize their daily email report.
+    - Used various AWS services and visualization techniques to automatically generate daily report of the usage of Amazon Marketplace Feed and Report Platform services, and provide a web portal for users to view and customize their daily report.
 
 - time: 2012
-  position: Data Mining Intern
-  org: Tencent \& THU
+  position: Research Intern
+  org: THU \& Tencent
   advisor: Supervised by Prof. Jie \textsc{Tang}
   job:
   - title: Unveiling the Unique Features of Tencent Weibo

@@ -1,7 +1,6 @@
 project:
-- Acoustic bird species recognition app on iOS device (will be integrated in Birdsnap).
-- Use Machine Learning to help Kinsa Inc. building their theormometer app.
+- Acoustic bird species recognition app on iOS device.
+- Used Machine Learning to help Kinsa Inc. building their theormometer app.
 - Greedy forwarding algorithm for mobile social networks embedded in hyperbolic spaces.
-- Terrain classification based on wavelet method.
 - Music transcription using Gaussian Mixture Model and beat detection.
 

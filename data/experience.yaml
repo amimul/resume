@@ -2,21 +2,27 @@
   position: Research project
   org: CS, Columbia U
   job:
+  - title: Fast, Flexible Models for Discovering Topic Correlation across Weakly-Related Collections
+    detail:
+    - Developed two probabilistic topic models, Correlated LDA and Correlated HDP, for analyzing topic correlations between large, asymmetric, and potentially weakly-related collections.
+    - Used C-LDA to compare over 300k documents in collections of sciences and humanities research from JSTOR.
   - title: Word semantic representations using Bayesian Probabilistic Tensor Factorization
     detail:
-    - Introduced a Bayesian probabilistic tensor factorization model for synthesizing a single word vector representation and perperspective linear transformations from any number of word similarity matrices.
+    - Developed a Bayesian probabilistic tensor factorization model for generating word vector representations and per-perspective linear transformations from any number of word similarity perspectives.
     - Evaluated the word embeddings with GRE antonym questions, achieved the state-of-the-art performance.
-    - Paper accepted by EMNLP'14, project will be integrated in IBM Waston.
+    - Paper presented in EMNLP'14, project will be integrated in IBM Waston.
 
-- time: 2014
+- time: 2014-
   position: Research assistant
   org: CS, Columbia U
   job:
-  - title: Extracting the Social Network of the Taliban (ongoing)
+  - title: Role Discovery based on Email Corpus
     detail:
-    - Using natural language processing technique to perform social event extraction over
-      a large tranche of newspapers and magazines produced by Taliban, aim to construct a mapping
-      of the social network of the Taliban leadership.
+    - Developed an application of semi-supervised learning that utilize Author Topic Model and graph Laplacian to automate role discovery with a small amount of training data.
   - title: Mention Network in the Enron Email Corpus
     detail:
-    - We introduced a novel mention network from emails, then demonstrated such network can help perdicting the organizational dominance in the Enron corporation.
+    - We introduced a novel mention network from emails, then demonstrated such network can help predicting the organizational dominance in the Enron corporation.
+    - Implemented graph walk and re-ranking algorithm for name disambiguation.
+  - title: Extracting the Social Network of Taliban
+    detail:
+    - Used natural language processing technique to perform social event extraction over a large tranche of newspapers and magazines produced by Taliban, aim to construct a mapping of the social network of the Taliban leadership.
